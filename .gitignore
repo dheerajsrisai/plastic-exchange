@@ -1,0 +1,9 @@
+node_modules/
+dist/
+target/
+uploads/
+__pycache__/
+ml-service/models/
+ml-service/data/
+.idea/
+.vscode/
